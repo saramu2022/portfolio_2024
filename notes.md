@@ -10,9 +10,10 @@ einen Absatz schreiben
 - 1 Semester Philosophie
 - 4 Semester Mediendesign
 
-### Fähigkeiten
+### Fähigkeiten, Kentnisse
 - 50WPM 10-Finger-Tippen
 - HTML, CSS, Javascript (P5 Library)
+- Git, GitHub
 - MS Word, Excel, Powerpoint
 - Adobe Illustrator, Photoshop, InDesign, Figma
 - Projektmanagement
