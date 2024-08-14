@@ -2525,6 +2525,10 @@ ul {
     background-color: #fbfbfb;
 }
 
+.bg-coseat {
+    background-image: url('.../assets/img/banner/Banner_CoSeat.png');
+}
+
 /* 25. Margin Padding
 --------------------------------------------------------------------------------*/
 
